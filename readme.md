@@ -2,4 +2,4 @@
 
 希望大家多多关注 狂神说 。
 
-[笔记](mybatis-plus/MyBatisPlus/1.认识mybatis-plus.md)
+[笔记目录](https://github.com/Gt841/mybatisPlusLearing/tree/master/mybatis-plus/MyBatisPlus)
