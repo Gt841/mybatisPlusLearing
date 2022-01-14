@@ -1,0 +1,14 @@
+#数据库连接配置
+spring:
+  profiles:
+    active: test #指定当前系统环境
+
+#mybatisplus配置
+mybatis-plus:
+  configuration:
+#    日志实现
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  global-config:
+    db-config:
+      logic-delete-value: 1
+      logic-not-delete-value: 0
