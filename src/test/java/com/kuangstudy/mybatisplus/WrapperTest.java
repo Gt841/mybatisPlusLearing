@@ -1,6 +1,6 @@
 package com.kuangstudy.mybatisplus;
 
-import com.baomidou.mybatisplus.core.conditions.Wrapper;
+//import com.baomidou.mybatisplus.core.conditions.Wrapper;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.kuangstudy.mybatisplus.config.SpringConfig;
 import com.kuangstudy.mybatisplus.mapper.UserMapper;
@@ -13,7 +13,7 @@ import java.util.List;
 import java.util.Map;
 
 @SpringBootTest
-public class WrapperTest {
+class WrapperTest {
     @Autowired
     private UserMapper userMapper;
 
